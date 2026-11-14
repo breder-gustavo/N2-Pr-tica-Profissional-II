@@ -1,2 +1,2 @@
-# N2-Pr-tica-Profissional-II
+# N2-Pratica-Profissional-II
 Repositório dedicado aos projetos da atividade N2 de prática Profissional II
